@@ -1,0 +1,25 @@
+//
+//  AappaTools.pch
+//  AappaTools
+//
+//  Created by Tyler on 2020/3/10.
+//  Copyright © 2020 Aappa. All rights reserved.
+//
+
+#ifndef AappaTools_pch
+#define AappaTools_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <QMUIKit/QMUIKit.h>
+#import <SVProgressHUD/SVProgressHUD.h>
+#import <YYKit/YYKit.h>
+#import "MMKV.h"
+#import "MJRefresh.h"
+#import "Masonry.h"
+#import "BaseRequestURI.h"
+#import "BaseResponseModel.h"
+#import "BaseResponseListModel.h"
+
+#endif /* AappaTools_pch */
